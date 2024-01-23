@@ -2,6 +2,8 @@
 
 This script use **Convex Hull** and **Delaunay Triangulation** to check if a set of 3D random points lies or not a 3D figure.
 
+The green dots are inside the figure while the red ones are outside the figure.
+
 <p align="center">
   <img src="https://github.com/DavAl36/3d_point_checker/assets/114728905/d8e5812a-abb5-4661-b1e3-e9dbf56d9409" width="400" />
   <img src="https://github.com/DavAl36/3d_point_checker/assets/114728905/c83c6f0d-b15a-4388-97ed-930d05f62511" width="400" />
